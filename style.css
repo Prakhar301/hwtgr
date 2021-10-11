@@ -1,0 +1,53 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  background: hsla(192, 95%, 50%, 1);
+
+  background: linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(204, 93%, 49%, 1) 5%, hsla(211, 91%, 48%, 1) 10%, hsla(212, 91%, 48%, 1) 15%, hsla(216, 90%, 48%, 1) 20%, hsla(220, 90%, 47%, 1) 25%, hsla(225, 89%, 47%, 1) 30%, hsla(222, 90%, 47%, 1) 35%, hsla(224, 90%, 47%, 1) 40%, hsla(223, 90%, 47%, 1) 45%, hsla(224, 90%, 47%, 1) 50%, hsla(225, 89%, 47%, 1) 55%, hsla(225, 89%, 47%, 1) 60%, hsla(225, 89%, 47%, 1) 65%, hsla(225, 89%, 47%, 1) 70%, hsla(225, 89%, 47%, 1) 75%, hsla(225, 89%, 47%, 1) 80%, hsla(225, 89%, 47%, 1) 85%, hsla(225, 89%, 47%, 1) 90%, hsla(225, 89%, 47%, 1) 95%, hsla(225, 89%, 47%, 1) 100%);
+  
+  background: -moz-linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(204, 93%, 49%, 1) 5%, hsla(211, 91%, 48%, 1) 10%, hsla(212, 91%, 48%, 1) 15%, hsla(216, 90%, 48%, 1) 20%, hsla(220, 90%, 47%, 1) 25%, hsla(225, 89%, 47%, 1) 30%, hsla(222, 90%, 47%, 1) 35%, hsla(224, 90%, 47%, 1) 40%, hsla(223, 90%, 47%, 1) 45%, hsla(224, 90%, 47%, 1) 50%, hsla(225, 89%, 47%, 1) 55%, hsla(225, 89%, 47%, 1) 60%, hsla(225, 89%, 47%, 1) 65%, hsla(225, 89%, 47%, 1) 70%, hsla(225, 89%, 47%, 1) 75%, hsla(225, 89%, 47%, 1) 80%, hsla(225, 89%, 47%, 1) 85%, hsla(225, 89%, 47%, 1) 90%, hsla(225, 89%, 47%, 1) 95%, hsla(225, 89%, 47%, 1) 100%);
+  
+  background: -webkit-linear-gradient(90deg, hsla(192, 95%, 50%, 1) 0%, hsla(204, 93%, 49%, 1) 5%, hsla(211, 91%, 48%, 1) 10%, hsla(212, 91%, 48%, 1) 15%, hsla(216, 90%, 48%, 1) 20%, hsla(220, 90%, 47%, 1) 25%, hsla(225, 89%, 47%, 1) 30%, hsla(222, 90%, 47%, 1) 35%, hsla(224, 90%, 47%, 1) 40%, hsla(223, 90%, 47%, 1) 45%, hsla(224, 90%, 47%, 1) 50%, hsla(225, 89%, 47%, 1) 55%, hsla(225, 89%, 47%, 1) 60%, hsla(225, 89%, 47%, 1) 65%, hsla(225, 89%, 47%, 1) 70%, hsla(225, 89%, 47%, 1) 75%, hsla(225, 89%, 47%, 1) 80%, hsla(225, 89%, 47%, 1) 85%, hsla(225, 89%, 47%, 1) 90%, hsla(225, 89%, 47%, 1) 95%, hsla(225, 89%, 47%, 1) 100%);
+  
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#07C8F9", endColorstr="#0993F0", GradientType=1 );
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  width: 200px !important;
+  height: 200px !important; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 50px !important;
+  width: 1000px !important;
+  letter-spacing:2px  ;
+  word-spacing: 5px;
+} 
+label{
+  font-size: 20px;
+  color:mediumspringgreen;
+  background-color: tomato;
+  width:150px;
+  border-radius: 50px;
+  padding: 5px !important;
+}
+button{
+  color:orangered !important;
+  background-color:midnightblue !important;   
+}
